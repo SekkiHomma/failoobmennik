@@ -1,6 +1,7 @@
 # failoobmennik
 
-```{
+```
+{
   "segments": [{
     "experiment": "abs_tc5_cvm_test_vigoda",
     "group": "test_2"
@@ -116,4 +117,5 @@
     "experiment": "tc5_reranker_category",
     "group": "control"
   }]
-}```
+}
+```
