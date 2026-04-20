@@ -1,4 +1,8 @@
 # failoobmennik
+# tg 
+```
+tg://proxy?server=89.22.236.124&port=8443&secret=ee8a362c00ddde83b505517dc396ee3fdb6b74616c6b2e7275
+```
 
 ```
 {
